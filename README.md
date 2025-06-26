@@ -1,4 +1,4 @@
-#**Simulador de Investimentos Pessoais**
+# Simulador de Investimentos Pessoais
 
 Esta é uma aplicação em Excel desenvolvida para auxiliar no planejamento e simulação de investimentos mensais, com foco em dividendos e diversificação de carteira.
 
