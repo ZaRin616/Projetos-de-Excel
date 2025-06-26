@@ -17,3 +17,5 @@ A ferramenta permite configurar um saldo inicial, definir perfis de investimento
 - Suporte para análise de metasde curto, medio e longo prazo.
 
 
+_Projeto criando durante a aula do bootcamp sobre excel com inteligencia artificial ministrada pelo professor Felipe Silva Aguiar do dio.me_
+
