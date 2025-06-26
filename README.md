@@ -12,7 +12,7 @@ A ferramenta permite configurar um saldo inicial, definir perfis de investimento
 - **Sugestão de alocação:** A planilha recomenda valores e percentuais de investimentos para cada tipo de ativo.
 
 **Benefícios**
-- Clara e intuitiva.
+- Interface clara e intuitiva.
 - Ideal para iniciantese e investidores que buscam visualizar crecimento patrimonial.
 - Suporte para análise de metasde curto, medio e longo prazo.
 
